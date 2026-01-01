@@ -19,7 +19,7 @@ icon: book
 
 <mark style="color:purple;">**1.5 .NET Runtime Architecture (High-Level)**</mark>
 
-<mark style="color:purple;">**1.6**</mark> [<mark style="color:purple;">**Common Language Runtime (CLR)**</mark>](1.6-clr-common-language-runtime.md)
+<mark style="color:purple;">**1.6**</mark> [<mark style="color:purple;">**Common Language Runtime (CLR)**</mark>](clr-common-language-runtime.md)
 
 <mark style="color:purple;">**1.7**</mark> [<mark style="color:purple;">**Common Type System (CTS)**</mark>](1.7-cts-common-type-system.md)
 
