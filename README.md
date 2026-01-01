@@ -18,19 +18,19 @@ description: Understanding the Platform Before Writing Code.
 
 <mark style="color:purple;">**1.5 .NET Runtime Architecture (High-Level)**</mark>
 
-[<mark style="color:purple;">**1.6 Common Language Runtime (CLR)**</mark>](1.6-clr-common-language-runtime.md)
+<mark style="color:purple;">**1.6**</mark> [<mark style="color:purple;">**Common Language Runtime (CLR)**</mark>](1.6-clr-common-language-runtime.md)
 
-[<mark style="color:purple;">**1.7 Common Type System (CTS)**</mark>](1.7-cts-common-type-system.md)
+<mark style="color:purple;">**1.7**</mark> [<mark style="color:purple;">**Common Type System (CTS)**</mark>](1.7-cts-common-type-system.md)
 
-[<mark style="color:purple;">**1.8 Base Class Library (BCL)**</mark>](1.8-bcl-base-class-library.md)
+<mark style="color:purple;">**1.8**</mark> [<mark style="color:purple;">**Base Class Library (BCL)**</mark>](1.8-bcl-base-class-library.md)
 
-<mark style="color:purple;">**1.9 Framework Class Library (FCL)**</mark>
+<mark style="color:purple;">**1.9**</mark> [<mark style="color:purple;">**Framework Class Library (FCL)**</mark>](1.9-fcl-framework-class-library.md)
 
-<mark style="color:purple;">**1.10 Compilation & Execution Model**</mark>
+<mark style="color:purple;">**1.10**</mark> [<mark style="color:purple;">**Compilation & Execution Model**</mark>](1.10-compilation-and-execution-model.md)
 
-<mark style="color:purple;">**1.11 JIT(Just-in-Time) Compilation**</mark>
+<mark style="color:purple;">**1.11**</mark> [<mark style="color:purple;">**JIT(Just-in-Time) Compilation**</mark>](1.11-jit-compilation.md)
 
-<mark style="color:purple;">**1.12 Native Execution (AOT)**</mark>
+<mark style="color:purple;">**1.12**</mark> [<mark style="color:purple;">**Native Execution (AOT)**</mark>](native-aot-ahead-of-time.md)
 
 <mark style="color:purple;">**1.13 Summary**</mark>
 
