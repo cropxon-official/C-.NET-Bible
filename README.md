@@ -27,9 +27,9 @@ icon: book
 
 <mark style="color:purple;">**1.9**</mark> [<mark style="color:purple;">**Framework Class Library (FCL)**</mark>](1.9-fcl-framework-class-library.md)
 
-<mark style="color:purple;">**1.10**</mark> [<mark style="color:purple;">**Compilation & Execution Model**</mark>](compilation-and-execution-model.md)
+<mark style="color:purple;">**1.10**</mark> [<mark style="color:purple;">**Compilation & Execution Model**</mark>](1.10-compilation-and-execution-model.md)
 
-<mark style="color:purple;">**1.11**</mark> [<mark style="color:purple;">**JIT(Just-in-Time) Compilation**</mark>](1.11-jit-compilation.md)
+<mark style="color:purple;">**1.11**</mark> [<mark style="color:purple;">**JIT(Just-in-Time) Compilation**</mark>](jit-compilation.md)
 
 <mark style="color:purple;">**1.12**</mark> [<mark style="color:purple;">**Native Execution (AOT)**</mark>](native-aot-ahead-of-time.md)
 
