@@ -23,9 +23,9 @@ icon: book
 
 <mark style="color:purple;">**1.7**</mark> [<mark style="color:purple;">**Common Type System (CTS)**</mark>](cts-common-type-system.md)
 
-<mark style="color:purple;">**1.8**</mark> [<mark style="color:purple;">**Base Class Library (BCL)**</mark>](bcl-base-class-library.md)
+<mark style="color:purple;">**1.8**</mark> [<mark style="color:purple;">**Base Class Library (BCL)**</mark>](1.8-bcl-base-class-library.md)
 
-<mark style="color:purple;">**1.9**</mark> [<mark style="color:purple;">**Framework Class Library (FCL)**</mark>](1.9-fcl-framework-class-library.md)
+<mark style="color:purple;">**1.9**</mark> [<mark style="color:purple;">**Framework Class Library (FCL)**</mark>](fcl-framework-class-library.md)
 
 <mark style="color:purple;">**1.10**</mark> [<mark style="color:purple;">**Compilation & Execution Model**</mark>](1.10-compilation-and-execution-model.md)
 
