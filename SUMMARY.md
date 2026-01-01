@@ -1,0 +1,6 @@
+# Table of contents
+
+* [MODULE 1 — INTRODUCTION TO C# +.NET](README.md)
+* [1.6 CLR : Common Language Runtime](1.6-clr-common-language-runtime.md)
+* [1.7 CTS (Common Type System)](1.7-cts-common-type-system.md)
+* [1.8 BCL - Base Class Library](1.8-bcl-base-class-library.md)
