@@ -1,8 +1,9 @@
 ---
 description: Understanding the Platform Before Writing Code.
+icon: book
 ---
 
-# MODULE 1 — INTRODUCTION TO C# +.NET
+# INTRODUCTION TO C# +.NET
 
 <figure><img src=".gitbook/assets/C#-Module1.png" alt=""><figcaption></figcaption></figure>
 
